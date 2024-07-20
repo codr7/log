@@ -9,7 +9,5 @@ But it kept throwing mean looking dialogs at me about this and that, the kind of
 <br/>
 I mean, I'm grateful and sort of surprised free software managed to get this far, this fast; it's a crazy amount of complexity to deal with. Even Apple under Steve Jobs struggled to make these kinds of system upgrades seemless, not to mention Windows. So that's not what this is about at all.<br/>
 <br/>
-And I could theoretically get involved and try to fix these issues myself, but I would rather channel that energy into getting other people excited about the idea.<br/> 
-<br/>
-Because it's not rocket surgery from here, this is almost good enough. Just a tiny bit more empthy for the user and determination to make it seemless would make it perfact.<br/>
+And I could theoretically get involved and try to fix these issues myself. But I would rather channel that energy into getting other people excited about the idea; because it's not rocket surgery from here, this is almost good enough for any random user. Just a tiny bit more empthy and determination to make it seemless would get us there.<br/>
 <br/>
