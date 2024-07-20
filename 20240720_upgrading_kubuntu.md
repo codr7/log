@@ -11,4 +11,3 @@ I mean, I'm grateful and sort of surprised free software managed to get this far
 <br/>.
 And I could theoretically get involved and try to fix these issues myself, but I would rather channel that energy into getting other people excited about the idea. Bacause it's not rocket science from here, this is almost good enough. Just a tiny bit more empthy for the user and determination to make it seemless would make it perfact.<br/>
 <br/>
-Thank you!<br/>
